@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages (Hii... this is my first page)
 
 You can use the [editor on GitHub](https://github.com/Jigs86/Jigs86.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,13 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Header 1 (About me)
+## Header 2 ()
 ### Header 3
-
+Education
 - Bulleted
 - List
-
+My publications
 1. Numbered
 2. List
 
