@@ -4,6 +4,13 @@ Hii. I will share myself on this pages. We have a short time and lot to cover, s
 
 I am passionate Engineer and aligning my efforts to sustainable developments around, may it be in terms of lifestyle, products or cultures. I love disgning things that are simple, reliable and with excellent functionality.
 
+I have guided many young engineers, particularly during their UG course to undertake ambitious projects. Learning my doing was the motto and we have delieverd in some interesting projects. 
+Here are some highlights on the project:
+1. IGVC
+2. Eklavya
+3. Car project at CHARUSAT
+4. Active Tilt Controlle 3W
+
 
 You can use the [editor on GitHub](https://github.com/Jigs86/Jigs86.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
