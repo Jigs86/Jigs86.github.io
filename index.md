@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages (Hii... this is my first page)
+## Jigneshsinh Sindha
+
+Hii. I will share myself on this pages. We have a short time and lot to cover, so I will keep things minimal and simple.
+
+I am passionate Engineer and aligning my efforts to sustainable developments around, may it be in terms of lifestyle, products or cultures. I love disgning things that are simple, reliable and with excellent functionality.
+
 
 You can use the [editor on GitHub](https://github.com/Jigs86/Jigs86.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
