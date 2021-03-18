@@ -37,17 +37,17 @@ New table
 <tbody>
   <tr>
     <td class="tg-0lax">OHP</td>
-    <td class="tg-0lax">https://youtu.be/A-MYsQLmH0g</td>
+    <td class="tg-0lax">[https://youtu.be/A-MYsQLmH0g](https://youtu.be/A-MYsQLmH0g)</td>
     <td class="tg-0lax">Hello&nbsp;&nbsp;&nbsp;Friends. This is the last session for the OHP subject that we have discussed&nbsp;&nbsp;&nbsp;in the last 32 lectures. We will discuss the trade-off in pipe selection for&nbsp;&nbsp;&nbsp;hydraulic machines. Later, we will revise the chapter on circuit design with&nbsp;&nbsp;&nbsp;a futuristic perspective. Best luck, best wishes. </td>
   </tr>
   <tr>
     <td class="tg-0lax">OHP</td>
-    <td class="tg-0lax">https://youtu.be/umW3DQPoo_Q</td>
+    <td class="tg-0lax">[https://youtu.be/umW3DQPoo_Q](https://youtu.be/umW3DQPoo_Q)</td>
     <td class="tg-0lax">Pressure&nbsp;&nbsp;&nbsp;losses in hydraulic circuits. </td>
   </tr>
   <tr>
     <td class="tg-0lax">OHP</td>
-    <td class="tg-0lax">https://youtu.be/PjVwmVdYhcE</td>
+    <td class="tg-0lax">[https://youtu.be/PjVwmVdYhcE](https://youtu.be/PjVwmVdYhcE)</td>
     <td class="tg-0lax">Circuits&nbsp;&nbsp;&nbsp;with limit switches-graphical representation</td>
   </tr>
   <tr>
