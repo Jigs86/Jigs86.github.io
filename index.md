@@ -52,7 +52,7 @@ New table
   </tr>
   <tr>
     <td class="tg-0lax">OHP</td>
-    <td class="tg-0lax"><a href="https://youtu.be/uXZaWeH9A_M"><span style="text-decoration:none;color:black">https://youtu.be/uXZaWeH9A_M</span></a></td>
+    <td class="tg-0lax"><a href="https://youtu.be/uXZaWeH9A_M"><span style="text-decoration:none;color:red">https://youtu.be/uXZaWeH9A_M</span></a></td>
     <td class="tg-0lax">We&nbsp;&nbsp;&nbsp;will learn 'Literal' and "Graphical' representation for the circuits&nbsp;&nbsp;&nbsp;used in automatic operation cycles. </td>
   </tr>
 </tbody>
