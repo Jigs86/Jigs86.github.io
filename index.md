@@ -16,6 +16,49 @@ Here are some highlights on the project:
 | 1              | oil hydraulic and Pneumatics| https://youtu.be/FBeMAsuGRtE |
 
 
+
+New table
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Subject</th>
+    <th class="tg-0lax">Video Link</th>
+    <th class="tg-0lax">Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">OHP</td>
+    <td class="tg-0lax">https://youtu.be/A-MYsQLmH0g</td>
+    <td class="tg-0lax">Hello&nbsp;&nbsp;&nbsp;Friends. This is the last session for the OHP subject that we have discussed&nbsp;&nbsp;&nbsp;in the last 32 lectures. We will discuss the trade-off in pipe selection for&nbsp;&nbsp;&nbsp;hydraulic machines. Later, we will revise the chapter on circuit design with&nbsp;&nbsp;&nbsp;a futuristic perspective. Best luck, best wishes. </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">OHP</td>
+    <td class="tg-0lax">https://youtu.be/umW3DQPoo_Q</td>
+    <td class="tg-0lax">Pressure&nbsp;&nbsp;&nbsp;losses in hydraulic circuits. </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">OHP</td>
+    <td class="tg-0lax">https://youtu.be/PjVwmVdYhcE</td>
+    <td class="tg-0lax">Circuits&nbsp;&nbsp;&nbsp;with limit switches-graphical representation</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">OHP</td>
+    <td class="tg-0lax"><a href="https://youtu.be/uXZaWeH9A_M"><span style="text-decoration:none;color:black">https://youtu.be/uXZaWeH9A_M</span></a></td>
+    <td class="tg-0lax">We&nbsp;&nbsp;&nbsp;will learn 'Literal' and "Graphical' representation for the circuits&nbsp;&nbsp;&nbsp;used in automatic operation cycles. </td>
+  </tr>
+</tbody>
+</table>
+
+
 You can use the [editor on GitHub](https://github.com/Jigs86/Jigs86.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
