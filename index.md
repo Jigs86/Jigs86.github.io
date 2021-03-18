@@ -13,7 +13,7 @@ Here are some highlights on the project:
 
 | Sr No          | Description    | Video Link |
 | :------------- | :------------- |------------|
-| 1       | oil hydraulic and Pneumatics       | 
+| 1              | oil hydraulic and Pneumatics| Blank|
 
 
 You can use the [editor on GitHub](https://github.com/Jigs86/Jigs86.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
