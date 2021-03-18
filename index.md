@@ -13,7 +13,7 @@ Here are some highlights on the project:
 
 | Sr No          | Description    | Video Link |
 | :------------- | :------------- |------------|
-| 1              | oil hydraulic and Pneumatics| https://youtu.be/FBeMAsuGRtE |
+| 1              | oil hydraulic and Pneumatics| [https://youtu.be/FBeMAsuGRtE](https://youtu.be/FBeMAsuGRtE) |
 
 
 
