@@ -22,7 +22,7 @@ Bringing the ideas to reality:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VjmnLb2v14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-New table
+Video Series from the lectures(Updation in progress):
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
