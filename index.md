@@ -16,6 +16,7 @@ Here are some highlights on the project:
 | 1              | oil hydraulic and Pneumatics| [https://youtu.be/FBeMAsuGRtE](https://youtu.be/FBeMAsuGRtE) |
 
 
+![Screenshot](screenshot.jpg)
 
 New table
 <style type="text/css">
