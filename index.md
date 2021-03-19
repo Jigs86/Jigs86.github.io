@@ -15,7 +15,7 @@ Here are some highlights on the project:
 | :------------- | :------------- |------------|
 | 1              | oil hydraulic and Pneumatics| [https://youtu.be/FBeMAsuGRtE](https://youtu.be/FBeMAsuGRtE) |
 
-
+Here is my passion: a safe and green mobility alternate for daily commuting. 
 ![Screenshot](screenshot.jpg)
 
 New table
