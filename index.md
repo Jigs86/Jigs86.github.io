@@ -22,6 +22,11 @@ Bringing the ideas to reality:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VjmnLb2v14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+My publications:
+
+<span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
 Video Series from the lectures(Updation in progress):
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
