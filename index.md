@@ -20,12 +20,12 @@ Here is my passion: a safe and green mobility alternate for daily commuting.
 
 Bringing the ideas to reality:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VjmnLb2v14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-1. Sindha, J., Chakraborty, B., and Chakravarty, D. (April 30, 2020). "System Identification and Lateral Dynamics of the Active Tilt-Controlled Electric Three Wheeler." ASME. J. Dyn. Sys., Meas., Control. September 2020; 142(9): 091001. https://doi.org/10.1115/1.4046798
+1. Sindha, J., Chakraborty, B., and Chakravarty, D. (April 30, 2020). "System Identification and Lateral Dynamics of the Active Tilt-Controlled Electric Three Wheeler." ASME. J. Dyn. Sys., Meas., Control. September 2020; 142(9): 091001. [https://doi.org/10.1115/1.4046798](https://doi.org/10.1115/1.4046798)
 
 My publications:
 
 <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-\\from the source "https://badge.dimensions.ai/#build"
+<!-- from the source "https://badge.dimensions.ai/#build"!> -->
 
 Video Series from the lectures(Updation in progress):
 <style type="text/css">
