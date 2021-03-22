@@ -23,7 +23,8 @@ Bringing the ideas to reality:
 
 
 Eklavya prototype: our baby-steps towards autonomous vehicle at AGV lab:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pNapyZJ8rZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pNapyZJ8rZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
 My publications:
 1. Sindha, J., Chakraborty, B., and Chakravarty, D. (April 30, 2020). _"System Identification and Lateral Dynamics of the Active Tilt-Controlled Electric Three Wheeler."_ ASME. J. Dyn. Sys., Meas., Control. September 2020; 142(9): 091001. [https://doi.org/10.1115/1.4046798](https://doi.org/10.1115/1.4046798)
