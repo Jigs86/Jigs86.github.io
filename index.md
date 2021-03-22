@@ -21,6 +21,10 @@ Here is my passion: a safe and green mobility alternate for daily commuting.
 Bringing the ideas to reality:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VjmnLb2v14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+Eklavya prototype: our baby-steps towards autonomous vehicle at AGV lab:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pNapyZJ8rZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 My publications:
 1. Sindha, J., Chakraborty, B., and Chakravarty, D. (April 30, 2020). _"System Identification and Lateral Dynamics of the Active Tilt-Controlled Electric Three Wheeler."_ ASME. J. Dyn. Sys., Meas., Control. September 2020; 142(9): 091001. [https://doi.org/10.1115/1.4046798](https://doi.org/10.1115/1.4046798)
 2. J. Sindha, B. Chakraborty and D. Chakravarty, _"Rigid body modeling of three wheel vehicle to determine the dynamic stability — A practical approach._" 2015 IEEE International Transportation Electrification Conference (ITEC), Chennai, India, 2015, pp. 1-8, [doi: 10.1109/ITEC-India.2015.7386889](https://ieeexplore.ieee.org/abstract/document/7386889).
