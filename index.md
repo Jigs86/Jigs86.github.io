@@ -53,22 +53,22 @@ Video Series from the lectures(Updation in progress):
   <tr>
     <td class="tg-0lax">OHP</td>
     <td class="tg-0lax">[https://youtu.be/A-MYsQLmH0g](https://youtu.be/A-MYsQLmH0g)</td>
-    <td class="tg-0lax">Hello&nbsp;&nbsp;&nbsp;Friends. This is the last session for the OHP subject that we have discussed&nbsp;&nbsp;&nbsp;in the last 32 lectures. We will discuss the trade-off in pipe selection for&nbsp;&nbsp;&nbsp;hydraulic machines. Later, we will revise the chapter on circuit design with&nbsp;&nbsp;&nbsp;a futuristic perspective. Best luck, best wishes. </td>
+    <td class="tg-0lax">This is the final session of OHP subject. We have learned about OHP in 32 sessions. We will discuss the trade-off in pipe selection for hydraulic machines. Later, we will revise the chapter on circuit design with a futuristic perspective. Best luck, best wishes. </td>
   </tr>
   <tr>
     <td class="tg-0lax">OHP</td>
     <td class="tg-0lax">[https://youtu.be/umW3DQPoo_Q](https://youtu.be/umW3DQPoo_Q)</td>
-    <td class="tg-0lax">Pressure&nbsp;&nbsp;&nbsp;losses in hydraulic circuits. </td>
+    <td class="tg-0lax">Pressure losses in hydraulic circuits. </td>
   </tr>
   <tr>
     <td class="tg-0lax">OHP</td>
     <td class="tg-0lax">[https://youtu.be/PjVwmVdYhcE](https://youtu.be/PjVwmVdYhcE)</td>
-    <td class="tg-0lax">Circuits&nbsp;&nbsp;&nbsp;with limit switches-graphical representation</td>
+    <td class="tg-0lax">Circuits with limit switches-graphical representation</td>
   </tr>
   <tr>
     <td class="tg-0lax">OHP</td>
     <td class="tg-0lax"><a href="https://youtu.be/uXZaWeH9A_M"><span style="text-decoration:none;color:red">https://youtu.be/uXZaWeH9A_M</span></a></td>
-    <td class="tg-0lax">We&nbsp;&nbsp;&nbsp;will learn 'Literal' and "Graphical' representation for the circuits&nbsp;&nbsp;&nbsp;used in automatic operation cycles. </td>
+    <td class="tg-0lax">We will learn 'Literal' and "Graphical' representation for the circuits used in automatic operation cycles. </td>
   </tr>
 </tbody>
 </table>
