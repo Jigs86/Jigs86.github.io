@@ -84,7 +84,7 @@ Video Series from the lectures(Updation in progress):
 | ...              | Entire lecture series on Oil Hydraulics and Pneumatics| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR) |
 | ...              | Entire lecture series on Power Plant Engineering| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb) |
 
-<!-- # Header 1 (About me)
+<!-- 
 ## Header 2 ()
 ### Header 3
 Education
@@ -107,4 +107,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. --> -->
