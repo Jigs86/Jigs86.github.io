@@ -59,12 +59,12 @@ Video Series from the lectures(Updation in progress):
   </tr>
   <tr>
     <td class="tg-0lax">OHP</td>
-    <td class="tg-0lax">[https://youtu.be/umW3DQPoo_Q](https://youtu.be/umW3DQPoo_Q)</td>
+    <td class="tg-0lax"><a href="https://youtu.be/umW3DQPoo_Q"><span style="text-decoration:none;color:red">https://youtu.be/umW3DQPoo_Q</span></a></td>
     <td class="tg-0lax">Pressure losses in hydraulic circuits. </td>
   </tr>
   <tr>
     <td class="tg-0lax">OHP</td>
-    <td class="tg-0lax">[https://youtu.be/PjVwmVdYhcE](https://youtu.be/PjVwmVdYhcE)</td>
+    <td class="tg-0lax"><a href="https://youtu.be/PjVwmVdYhcE"><span style="text-decoration:none;color:red">https://youtu.be/PjVwmVdYhcE</span></a></td>
     <td class="tg-0lax">Circuits with limit switches-graphical representation</td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ Video Series from the lectures(Updation in progress):
 | ...              | Entire lecture series on Oil Hydraulics and Pneumatics| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR) |
 | ...              | Entire lecture series on Power Plant Engineering| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb) |
 
-<!-- 
+<!--
 ## Header 2 ()
 ### Header 3
 Education
