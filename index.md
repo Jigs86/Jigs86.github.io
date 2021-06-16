@@ -11,15 +11,6 @@ Here are some highlights on the project:
 3. Car project at CHARUSAT
 4. Active Tilt Controlle 3W
 
-#Lecture Series at MU
-
-| Sr No          | Description    | Video Link |
-| :------------- | :------------- |------------|
-| 1              | oil hydraulic and Pneumatics| [https://youtu.be/FBeMAsuGRtE](https://youtu.be/FBeMAsuGRtE) |
-| 2              | Rotary Actuators in Pneumatics| [https://www.youtube.com/watch?v=JjGb62jZWDo&ab_channel=JigneshsinhSindhaJigneshsinhSindha](https://www.youtube.com/watch?v=JjGb62jZWDo&ab_channel=JigneshsinhSindhaJigneshsinhSindha) |
-| ...              | Entire lecture series on Oil Hydraulics and Pneumatics| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR) |
-| ...              | Entire lecture series on Power Plant Engineering| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb) |
-
 
 Here is my passion: a safe and green mobility alternate for daily commuting.
 ![Screenshot](screenshot.jpg)
@@ -84,17 +75,14 @@ Video Series from the lectures(Updation in progress):
 </tbody>
 </table>
 
+#Lecture Series at MU
 
-You can use the [editor on GitHub](https://github.com/Jigs86/Jigs86.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+| Sr No          | Description    | Video Link |
+| :------------- | :------------- |------------|
+| 1              | oil hydraulic and Pneumatics| [https://youtu.be/FBeMAsuGRtE](https://youtu.be/FBeMAsuGRtE) |
+| 2              | Rotary Actuators in Pneumatics| [https://www.youtube.com/watch?v=JjGb62jZWDo&ab_channel=JigneshsinhSindhaJigneshsinhSindha](https://www.youtube.com/watch?v=JjGb62jZWDo&ab_channel=JigneshsinhSindhaJigneshsinhSindha) |
+| ...              | Entire lecture series on Oil Hydraulics and Pneumatics| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR) |
+| ...              | Entire lecture series on Power Plant Engineering| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb) |
 
 # Header 1 (About me)
 ## Header 2 ()
