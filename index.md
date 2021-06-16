@@ -54,7 +54,7 @@ Video Series from the lectures(Updation in progress):
 <tbody>
   <tr>
     <td class="tg-0lax">OHP</td>
-    <td class="tg-0lax">[https://youtu.be/A-MYsQLmH0g](https://youtu.be/A-MYsQLmH0g)</td>
+    <td class="tg-0lax"><a href="https://youtu.be/A-MYsQLmH0g"><span style="text-decoration:none;color:red">https://youtu.be/A-MYsQLmH0g</span></a></td>
     <td class="tg-0lax">This is the final session of OHP subject. We have learned about OHP in 32 sessions. We will discuss the trade-off in pipe selection for hydraulic machines. Later, we will revise the chapter on circuit design with a futuristic perspective. Best luck, best wishes. </td>
   </tr>
   <tr>
