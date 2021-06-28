@@ -1,15 +1,15 @@
 ## Jigneshsinh Sindha
 
-Hii. I will share myself on this pages. We have a short time and lot to cover, so I will keep things minimal and simple.
+Hi. I will share myself on this pages. We have a short time and lot to cover, so I will keep things minimal and simple.
 
-I am passionate Engineer and aligning my efforts to sustainable developments around, may it be in terms of lifestyle, products or cultures. I love disgning things that are simple, reliable and with excellent functionality.
+I am passionate Engineer and aligning my efforts to sustainable developments around, may it be in terms of lifestyle, products or cultures. I love designing things that are simple, reliable and with excellent functionality.
 
-I have guided many young engineers, particularly during their UG course to undertake ambitious projects. Learning my doing was the motto and we have delieverd in some interesting projects.
+I have guided many young engineers, particularly during their UG course to undertake ambitious projects. Learning my doing was the motto and we have delivered in some interesting projects.
 Here are some highlights on the project:
 1. IGVC
 2. Eklavya
 3. Car project at CHARUSAT
-4. Active Tilt Controlle 3W
+4. Active Tilt Controlled 3W
 
 
 Here is my passion: a safe and green mobility alternate for daily commuting.
@@ -31,9 +31,9 @@ My publications:
 5. A. Mohanty, J. Sindha, A. Panda and D. Chakravarty, _"A novel approach for optimal speed control of the vehicle using drive envelope based analysis,"_ 2017 IEEE Transportation Electrification Conference (ITEC-India), Pune, 2017, pp. 1-5, [doi: 10.1109/ITEC-India.2017.8333890](https://ieeexplore.ieee.org/abstract/document/8333890).
 
 
-<span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<!-- <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <!-- from the source "https://badge.dimensions.ai/#build"!> -->
-
+<!--
 Video Series from the lectures(Updation in progress):
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -73,14 +73,14 @@ Video Series from the lectures(Updation in progress):
     <td class="tg-0lax">We will learn 'Literal' and "Graphical' representation for the circuits used in automatic operation cycles. </td>
   </tr>
 </tbody>
-</table>
+</table> --> -->
 
 #Lecture Series at MU
 
 | Sr No          | Description    | Video Link |
 | :------------- | :------------- |------------|
-| 1              | oil hydraulic and Pneumatics| [https://youtu.be/FBeMAsuGRtE](https://youtu.be/FBeMAsuGRtE) |
-| 2              | Rotary Actuators in Pneumatics| [https://www.youtube.com/watch?v=JjGb62jZWDo&ab_channel=JigneshsinhSindhaJigneshsinhSindha](https://www.youtube.com/watch?v=JjGb62jZWDo&ab_channel=JigneshsinhSindhaJigneshsinhSindha) |
+<!-- | 1              | oil hydraulic and Pneumatics| [https://youtu.be/FBeMAsuGRtE](https://youtu.be/FBeMAsuGRtE) |
+| 2              | Rotary Actuators in Pneumatics| [https://www.youtube.com/watch?v=JjGb62jZWDo&ab_channel=JigneshsinhSindhaJigneshsinhSindha](https://www.youtube.com/watch?v=JjGb62jZWDo&ab_channel=JigneshsinhSindhaJigneshsinhSindha) | -->
 | ...              | Entire lecture series on Oil Hydraulics and Pneumatics| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR) |
 | ...              | Entire lecture series on Power Plant Engineering| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb) |
 
