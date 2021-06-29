@@ -81,8 +81,8 @@ Video Series from the lectures(Updation in progress):
 | :------------- | :------------- |------------|
 <!-- | 1              | oil hydraulic and Pneumatics| [https://youtu.be/FBeMAsuGRtE](https://youtu.be/FBeMAsuGRtE) |
 | 2              | Rotary Actuators in Pneumatics| [https://www.youtube.com/watch?v=JjGb62jZWDo&ab_channel=JigneshsinhSindhaJigneshsinhSindha](https://www.youtube.com/watch?v=JjGb62jZWDo&ab_channel=JigneshsinhSindhaJigneshsinhSindha) | -->
-| ...              | Entire lecture series on Oil Hydraulics and Pneumatics| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR) |
-| ...              | Entire lecture series on Power Plant Engineering| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb) |
+| ...              | Lecture series on Oil Hydraulics and Pneumatics| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCxMx8ladA9WGMxdNMZsAixR) |
+| ...              | Lecture series on Power Plant Engineering| [https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb](https://www.youtube.com/playlist?list=PLxZ-pfL2IJCzsjxk4m1xc6KL9XGjCgEdb) |
 
 <!--
 ## Header 2 ()
