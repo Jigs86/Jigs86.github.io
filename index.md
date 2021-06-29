@@ -1,15 +1,14 @@
 ## Jigneshsinh Sindha
 
-Hi. I will share myself on this pages. We have a short time and lot to cover, so I will keep things minimal and simple.
+Hi. I will share myself on this pages. We have a short time and lot to cover, so I will keep things to minimum and simple.
 
 I am passionate Engineer and aligning my efforts to sustainable developments around, may it be in terms of lifestyle, products or cultures. I love designing things that are simple, reliable and with excellent functionality.
 
-I have guided many young engineers, particularly during their UG course to undertake ambitious projects. Learning my doing was the motto and we have delivered in some interesting projects.
+I have guided many young engineers, particularly during their UG course to undertake ambitious projects. Learning by doing is the motto and we have delivered in interesting projects.
 Here are some highlights on the project:
-1. IGVC
-2. Eklavya
-3. Car project at CHARUSAT
-4. Active Tilt Controlled 3W
+1. [IGVC Eklavya 5.0](http://www.igvc.org/teams/2016teams.png) at [AGV](https://www.facebook.com/agvkgp/)
+3. [Car project at CHARUSAT](https://www.facebook.com/OjaswatMotorsports/)
+4. [Active Tilt Controlled 3W](https://scholar.google.co.in/citations?user=P73XAi0AAAAJ&hl=en)
 
 
 Here is my passion: a safe and green mobility alternate for daily commuting.
